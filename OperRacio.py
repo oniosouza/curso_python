@@ -1,18 +1,18 @@
 ##Operadores Racionais
 ## mostra a relacao entre dois valores.
 
-##OPERADORES DE IGUALDADE
-## (=)igualdade: ==
-##(=/)Diferente: !=
+#OPERADORES DE IGUALDADE
+# (=)igualdade: ==
+#(=/)Diferente: !=
 
-##(x == y) => x é igual a y.
+#(x == y) => x é igual a y.
 
-##(x != y) => x é diferente de y.
+#(x != y) => x é diferente de y.
 
-##OPERADORES RELACIONAIS:
+#OPERADORES RELACIONAIS:
 
-## maior que: >
-##menor que: <
-##maior ou igual: >=
-##menor ou igual: <=
+# maior que: >
+#menor que: <
+#maior ou igual: >=
+#menor ou igual: <=
 

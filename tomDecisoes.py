@@ -1,4 +1,4 @@
-##TOMADA DE DECIOSOES
+#TOMADA DE DECIOSOES
 
 nota1 = float(input("digite a primeira nota:"))
 print("a primeira nota é:", nota1, "\n")
