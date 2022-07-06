@@ -7,7 +7,9 @@ nota2 = float(input("digite a segunda nota:"))
 print("a segunda nota é:", nota2, "\n")
 
 nota3 = float(input("digite a terceira nota:"))
+soma = nota1 + nota2 + nota3
 print("a terceira nota é:", nota3, "\n")
+print("a soma entre as notas é; "(nota1+nota2+nota3 ,soma))
 
 
 
